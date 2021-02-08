@@ -1,0 +1,1 @@
+When I learned, I wrote it down.
