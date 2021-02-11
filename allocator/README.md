@@ -6,9 +6,9 @@
 
 # allocator 
     * allocate
-    * deallocate
-    * construct
-    * destroy
+        * deallocate
+        * construct
+        * destroy
 
 # constructor
     * construct
