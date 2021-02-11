@@ -5,13 +5,13 @@
 # 包括两个文件：allocator 和 constructor
 
 # allocator 
-    > * allocate
-    > * deallocate
-    > * construct
-    > * destroy
+    * allocate
+    * deallocate
+    * construct
+    * destroy
 
 # constructor
-    > * construct
-    > * destroy_one
-    > * destroy_cat
-    > * destroy
+    * construct
+    * destroy_one
+    * destroy_cat
+    * destroy
