@@ -1,5 +1,5 @@
-#ifndef STL_Note_ALLOCATOR_H_
-#define STL_Note_ALLOCATOR_H_
+#ifndef STL_Note_CONSTRUCT_H_
+#define STL_Note_CONSTRUCT_H_
 
 // 这个头文件包含两个函数 construct，destroy
 // construct : 负责对象的构造

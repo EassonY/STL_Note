@@ -1,7 +1,5 @@
 ## allocator 负责内存的配置和回收
 
-------
-
 # 包括两个文件：allocator 和 constructor
 
 # allocator 
